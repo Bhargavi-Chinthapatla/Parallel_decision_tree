@@ -8,6 +8,9 @@ The methodology section details the approach taken to implement the C4.5 decisio
 
 <img width="301" alt="Screenshot 2024-02-17 at 2 15 23 AM" src="https://github.com/Bhargavi-Chinthapatla/stock_prediction/assets/149857162/cfb9d5cf-d60f-4d60-8de7-347f94c68f5f">
 
+<img width="504" alt="Screenshot 2024-02-17 at 2 15 58 AM" src="https://github.com/Bhargavi-Chinthapatla/stock_prediction/assets/149857162/92c71273-5da1-448e-a290-9557de666b31">
+
+
 ## Key Findings
 ### Performance Improvement: 
 The implementation demonstrates significant performance improvements in both model training and prediction phases when utilizing parallel processing compared to serial execution.
