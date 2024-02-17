@@ -19,8 +19,8 @@ The implementation demonstrates significant performance improvements in both mod
 The study shows that the parallelized version of the C4.5 decision tree algorithm scales effectively with the increase in data size without compromising on accuracy or performance.
 ### Trade-offs: 
 While parallel processing introduces some overhead, particularly in communication among processors, the overall benefits in terms of reduced execution time and maintained accuracy are highlighted.
-<img width="504" alt="Screenshot 2024-02-17 at 2 16 13 AM" src="https://github.com/Bhargavi-Chinthapatla/stock_prediction/assets/149857162/3d403aee-bdf1-4b67-8582-fc68ee8968a8">
 
+<img width="504" alt="Screenshot 2024-02-17 at 2 16 13 AM" src="https://github.com/Bhargavi-Chinthapatla/stock_prediction/assets/149857162/3d403aee-bdf1-4b67-8582-fc68ee8968a8">
 <img width="474" alt="Screenshot 2024-02-17 at 2 16 32 AM" src="https://github.com/Bhargavi-Chinthapatla/stock_prediction/assets/149857162/cdb266d5-1070-487b-ad9c-501eef2d89a4">
 
 ## Conclusion
