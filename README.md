@@ -6,6 +6,7 @@ This document presents a study on the implementation of a distributed decision t
 ## Methodology
 The methodology section details the approach taken to implement the C4.5 decision tree algorithm using multiprocessing. It discusses the preprocessing steps, decision tree construction, and the parallelization technique employed to distribute the workload across multiple processors effectively.
 
+<img width="301" alt="Screenshot 2024-02-17 at 2 15 23 AM" src="https://github.com/Bhargavi-Chinthapatla/stock_prediction/assets/149857162/ff765b48-52a1-4eed-8f05-d8b490f8889a">
 
 <img width="504" alt="Screenshot 2024-02-17 at 2 15 58 AM" src="https://github.com/Bhargavi-Chinthapatla/stock_prediction/assets/149857162/92c71273-5da1-448e-a290-9557de666b31">
 
